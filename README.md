@@ -89,7 +89,7 @@ Number of Class         : 10
 #### Tools / Libraries
 <pre>
 Languages               : Python
-Tools/IDE               : Kaggle
+Tools/IDE               : Jupyter
 Libraries               : Keras
 </pre>
 
