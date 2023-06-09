@@ -78,29 +78,13 @@ Number of Class         : 10
 ### Visualization
 #### Class Distribution: 
 <kbd>
-<img src=[https://github.com/anjanatiha/Kannada-MNIST-Classification-with-Deep-Learning/blob/master/demo/images/class-dist.png](https://github.com/isabeljohnson001/MNIST-Classification-with-Deep-Learning/blob/main/model_performance.png)>
+<img src=https://github.com/isabeljohnson001/MNIST-Classification-with-Deep-Learning/blob/main/class-dist.png>
 </kbd>
 
 #### Model Performance: 
 <kbd>
-<img src=[https://github.com/anjanatiha/Kannada-MNIST-Classification-with-Deep-Learning/blob/master/demo/report/hist.png>
+<img src=https://github.com/isabeljohnson001/MNIST-Classification-with-Deep-Learning/blob/main/model_performance.png>
 </kbd>
-
-<!--
-##### Sample Output: 
-<kbd>
-<img src=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/sample/sample.png>
-</kbd>
-
-<kbd>
-<a href=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/images/result.png>See More Images</a>
-</kbd>
-
-##### Confusion Matrix: 
-<kbd>
-<img src=https://github.com/anjanatiha/Histopathologic-Cancer-Detection/blob/master/demo/report/CM.png alt="Confusion Matrix" width=800px height=600px>
-</kbd>
--->
 
 #### Tools / Libraries
 <pre>
